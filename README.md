@@ -1,5 +1,5 @@
 Name des Projekts:	Entscheidungsbaeume
-Link zum MyBinder: 	https://github.com/HuseyinBgn/2DecisionTree
+Link zum MyBinder: 	[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HuseyinBgn/2DecisionTree/HEAD)
 
 Doku:	
 
